@@ -1,3 +1,3 @@
 Ссылка на архивы с текстами: 
-https://drive.google.com/file/d/0B-wRRZrsnwCzdEVOc0ZMY2tDVVU/view?usp=sharing
+https://drive.google.com/folderview?id=0B-wRRZrsnwCzUU5jUWUxUW5lRWs&usp=sharing
 
