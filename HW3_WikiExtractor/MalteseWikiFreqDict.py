@@ -43,5 +43,5 @@ def freqDict(voc):
         f2.write(str(item[1]) + '\t' + str(item[0]) + '\n')
 
 output = 'C:\\hw_python\\wikiFiles'
-#getWiki(output)
+getWiki(output)
 walk(output)
