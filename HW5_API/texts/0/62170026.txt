@@ -1,0 +1,2 @@
+Мой канал: http://bit.ly/1P5sn5y<br>Моя страница ВК: http://bit.ly/1peWrXh<br>Стримы тут: http://bit.ly/21o4LAb
+Настройки мыши: <br>Dpi 400; Чувствительность в игре 2.2; Чувствительность зума 1; Чувствительность в Windows 6/11; Герцовость мыши 500Hz; Прямое подключение on; <br> <br>Настройки видео: <br>1920 х 1080 16:9; <br> <br>Все параметры на минимум, включена многоядерная обработка. Фильтрация анизотропная. <br> <br>Параметры запуска: <br>-console -tickrate 128; <br> <br>Девайсы: <br>Steelseries Siberia V2, Razer Blackwidow, Steelseries QCK+ Heavy, Razer Deathadder 2013.
