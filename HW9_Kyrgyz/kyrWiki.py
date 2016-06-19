@@ -1,8 +1,8 @@
 import os, re
 
 def getWiki(path1): #скачивание википедии
-    os.system("C:\\Python27\\python.exe C:\\Users\\Ivankov\\Desktop\\HW_KGZ\\wikiextractor-master\\WikiExtractor1.py -o " /
-              + path1 + " -b 3M C:\\Users\\Ivankov\\Desktop\\HW_KGZ\\kywiki-20160601-pages-meta-current.xml") 
+    os.system("C:\\Python27\\python.exe C:\\Users\\Ivankov\\Desktop\\HW9_Kyrgyz\\wikiextractor-master\\WikiExtractor1.py -o " /
+              + path1 + " -b 3M C:\\Users\\Ivankov\\Desktop\\HW9_Kyrgyz\\kywiki-20160601-pages-meta-current.xml") 
     
 
 def wordsToVoc(file): #извлечение слов из всех скачанных файлов
