@@ -127,7 +127,7 @@ def options(argv):
         elif argv[1].endswith('.xml') and argv[2].endswith('.prs'):
             xml2prs(argv[1], argv[2])
         else:
-            print('Invalid file extensions')
+            print('Invalid filename extensions')
     else: 
         print(options.__doc__) 
 
