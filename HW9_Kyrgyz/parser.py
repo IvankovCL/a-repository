@@ -1,4 +1,4 @@
-#загружает найденные аффиксы
+#загружает найденные цепочки аффиксов
 def loadAffixes():
     with open('affixes.txt', 'r', encoding='utf-8') as affFile:
         affixes = []
@@ -17,6 +17,9 @@ def loadAffixes():
         return affixesSorted
         
 if __name__ == '__main__':
+    """
+    Ищет цепочки аффиксов в словах текста
+    """
 
     affixes = loadAffixes()
     
